@@ -41,6 +41,9 @@ A multi-functional calculator application developed in Python using Tkinter, sup
 1. Install Python
 2. Run any file:
    python calculator.py
+   
    python Jumbo_Calculator.py
+   
    python Jumbo_Advanced_Calculator.py
+   
    python Jumbo propro_Calculator.py
